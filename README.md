@@ -12,7 +12,7 @@ A simple and intuitive IPTV player built with Python using `tkinter` for the GUI
     * Browse channels by category.
     * Search and filter channels.
     * Add and remove channels from your favorites.
-* **VLC Playback:** Utilizes VLC Media Player for robust and versatile stream playback.
+* **VLC Playback:** Utilises VLC Media Player for robust and versatile stream playback.
 * **Persistent Configuration:** Automatically saves and loads your M3U and EPG URLs, and favorite channels.
 * **User-Friendly Interface:** A clean and easy-to-navigate graphical user interface.
 
@@ -32,11 +32,9 @@ Before running the player, ensure you have the following installed:
 1.  **Clone the repository:**
 
     ```bash
-    git clone [https://github.com/yourusername/python-iptv-player.git](https://github.com/yourusername/python-iptv-player.git)
-    cd python-iptv-player
+    git clone https://github.com/rmj1986/IptvPlayer.git
+    cd iptv
     ```
-
-    *(Replace `yourusername/python-iptv-player.git` with the actual repository URL once you've created it.)*
 
 2.  **Install Python dependencies:**
 
@@ -62,11 +60,8 @@ Before running the player, ensure you have the following installed:
 2.  **Run the script:**
 
     ```bash
-    python your_script_name.py
+    python iptv.py
     ```
-
-    *(Replace `your_script_name.py` with the actual name of your Python file, e.g., `iptv_player.py`)*
-
 ---
 
 ## Usage
