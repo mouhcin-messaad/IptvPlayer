@@ -611,3 +611,4 @@ if __name__ == "__main__":
     app = IPTVPlayerApp(root)
     root.protocol("WM_DELETE_WINDOW", app.on_closing)
     root.mainloop()
+
